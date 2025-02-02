@@ -22,14 +22,15 @@
 
 
 ## 👾 About hyunzin
+
 <p align="center">
   <!-- GitHub -->
-  <a href="https://github.com/내링크" target="_blank">
+  <a href="https://github.com/hyunzinbak" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-F9F9F9?style=for-the-badge&logo=GitHub&logoColor=181717" alt="GitHub Badge"/>
   </a>
   
   <!-- Tistory -->
-  <a href="https://내티스토리링크" target="_blank">
+  <a href="https://hgggny.tistory.com/" target="_blank">
     <img src="https://img.shields.io/badge/Tistory-FF6600?style=for-the-badge&logo=Tistory&logoColor=white" alt="Tistory Badge"/>
   </a>
   
