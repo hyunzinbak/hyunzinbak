@@ -1,14 +1,22 @@
 <!-- 상단 동물 농장(gitanimals) + 헤더 + 방문자수 카운트 -->
+
 <p align="center">
   <!-- gitanimals -->
+  <!--
   <a href="https://github.com/devxb/gitanimals">
     <img src="https://render.gitanimals.org/farms/hyunzinbak" alt="gitanimals farm"/>
   </a>
+  -->
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/hyunzinbak?pet-id=1" width="1000" height="120"/>
+</a>
+  
 </p>
 
-<p align="center">
-  <!-- 헤더: capsule-render -->
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=hyeonjin%20park&fontSize=90" 
+
+
+<p align="center">  
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=hyeonjin%20park&fontSize=30" 
        alt="header image"/>
 </p>
 
@@ -19,6 +27,8 @@
          alt="hits badge" />
   </a>
 </p>
+
+
 
 <br/><br/>
 
