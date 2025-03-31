@@ -7,12 +7,13 @@
     <img src="https://render.gitanimals.org/farms/hyunzinbak" alt="gitanimals farm"/>
   </a>
   -->
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/hyunzinbak?pet-id=1" width="1000" height="120"/>
-</a>
-  
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=hyunzinbak&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/hyunzinbak"
+  width="2000"
+  height=300"
+/>
 </p>
-
 
 
 <p align="center">  
