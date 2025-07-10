@@ -21,15 +21,6 @@
        alt="header image"/>
 </p>
 
-<p align="center">
-  <!-- 방문자수 카운트 -->
-  <a href="https://hits.seeyoufarm.com" target="_blank">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyunzinbak&count_bg=%23AE5656&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" 
-         alt="hits badge" />
-  </a>
-</p>
-
-
 
 <br/><br/>
 
